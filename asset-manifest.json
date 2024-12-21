@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/login-system/static/css/main.906ea5b1.css",
-    "main.js": "/login-system/static/js/main.0df84bf5.js",
+    "main.js": "/login-system/static/js/main.e98e206e.js",
     "static/js/488.7af07fe1.chunk.js": "/login-system/static/js/488.7af07fe1.chunk.js",
     "static/media/Group.png": "/login-system/static/media/Group.a500499368c54e83e641.png",
     "static/media/account_circle.svg": "/login-system/static/media/account_circle.97022a7f0a9293e586ec3a6eab23936c.svg",
@@ -12,11 +12,11 @@
     "static/media/mail.svg": "/login-system/static/media/mail.4beea8dae89a9832b64774b6eb8c0bfb.svg",
     "static/media/facebookIcon.svg": "/login-system/static/media/facebookIcon.26211eac47cec44d5372935215b4b43f.svg",
     "main.906ea5b1.css.map": "/login-system/static/css/main.906ea5b1.css.map",
-    "main.0df84bf5.js.map": "/login-system/static/js/main.0df84bf5.js.map",
+    "main.e98e206e.js.map": "/login-system/static/js/main.e98e206e.js.map",
     "488.7af07fe1.chunk.js.map": "/login-system/static/js/488.7af07fe1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.906ea5b1.css",
-    "static/js/main.0df84bf5.js"
+    "static/js/main.e98e206e.js"
   ]
 }
