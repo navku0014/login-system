@@ -51,7 +51,7 @@
 // }
 
 // export default App;
-import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import './App.css';
 import { useEffect, useState } from 'react';
 import LoginPage from './component/loginPage/LoginPage';
@@ -83,8 +83,7 @@ function App() {
   };
 
   return (
-    // Set basename to the subfolder where the app is hosted ("/login-system")
-    <Router basename="/login-system">
+    <Router>
       <Routes>
         <Route path="/" element={<Navigate to="/auth/login" />} />
         <Route
