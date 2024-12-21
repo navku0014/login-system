@@ -33,6 +33,10 @@ function App() {
     <Router>
       <Routes>
       <Route
+      path="/"
+      element={<Navigate to="/auth/login" />}
+    />
+      <Route
           path="/auth/login"
           element={accessToken && userData ? (
             <Navigate to="/home" />
